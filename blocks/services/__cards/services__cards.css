@@ -1,0 +1,7 @@
+.services__cards {
+    grid-template-columns: repeat(auto-fit, 316px);
+    grid-column-gap: 123px;
+    grid-row-gap: 70px;
+    display: grid;
+    margin-top: 82px;
+}

@@ -1,0 +1,9 @@
+.articles__subhead {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 30px;
+    color: #555671;
+    margin: 17px 0 0;
+    max-width: 318px;
+}

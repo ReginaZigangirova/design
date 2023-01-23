@@ -1,0 +1,11 @@
+.portfolio__title {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 58px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #181A3F;
+    margin: 0;
+    max-width: 456px;
+}

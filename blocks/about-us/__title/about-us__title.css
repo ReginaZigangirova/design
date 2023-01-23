@@ -1,0 +1,11 @@
+.about-us__title {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 54px;
+    line-height: 74px;
+    letter-spacing: 2.16px;
+    text-transform: uppercase;
+    color: #181A3F;
+    margin: 0;
+    max-width: 630px;
+}

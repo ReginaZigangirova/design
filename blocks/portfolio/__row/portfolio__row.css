@@ -1,0 +1,7 @@
+.portfolio__row {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    padding: 64px 285px 60px 0;
+    border-bottom: 1px solid #DAD9D6;
+}

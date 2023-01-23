@@ -1,0 +1,8 @@
+.footer__network {
+    margin-right: 28px;
+    cursor: pointer;
+}
+
+.footer__network:last-child {
+    margin: 0;
+}

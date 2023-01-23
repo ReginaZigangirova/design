@@ -1,0 +1,14 @@
+.project__button {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    padding: 13px 56px 10px;
+    letter-spacing: 1.6px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #FF7549;
+    border: 2px solid #FF7549;
+    margin-top: 55px;
+    cursor: pointer;
+}

@@ -1,0 +1,14 @@
+.articles__button {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: 1.6px;
+    text-transform: uppercase;
+    color: #181A3F;
+    padding: 9px 56px;
+    border: 2px solid #181A3F;
+    background-color: transparent;
+    cursor: pointer;
+}

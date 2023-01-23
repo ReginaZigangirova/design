@@ -1,0 +1,7 @@
+.work {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #F0EFEC;
+    padding: 182px 154px 176px 110px;
+}

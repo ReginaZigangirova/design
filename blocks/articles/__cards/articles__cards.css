@@ -1,0 +1,6 @@
+.articles__cards {
+    margin-top: 96px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 388px);
+    grid-column-gap: 28px;
+}

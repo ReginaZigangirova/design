@@ -1,0 +1,7 @@
+.project {
+    padding: 0 0 0 110px ;
+    background: #F0EFEC;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

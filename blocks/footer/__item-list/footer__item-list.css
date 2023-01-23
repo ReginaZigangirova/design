@@ -1,0 +1,15 @@
+.footer__item-list {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    letter-spacing: 0.72px;
+    text-transform: uppercase;
+    margin: 31px 0 0;
+    color: #555671;
+    cursor: pointer;
+}
+
+.footer__item-list:first-child {
+    margin: 0;
+}

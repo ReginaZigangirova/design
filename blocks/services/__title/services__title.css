@@ -1,0 +1,11 @@
+.services__title {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 58px;
+    margin: 0;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #181A3F;
+    max-width: 548px;
+}

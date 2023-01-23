@@ -1,0 +1,14 @@
+.history__button {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    padding: 17px 56px 16px;
+    letter-spacing: 1.6px;
+    text-transform: uppercase;
+    color: #181A3F;
+    border: 2px solid #181A3F;
+    border-radius: 0px;
+    background-color: transparent;
+    cursor: pointer;
+}

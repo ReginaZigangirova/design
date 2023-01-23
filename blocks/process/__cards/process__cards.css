@@ -1,0 +1,6 @@
+.process__cards {
+    margin-top: 75px;
+    grid-template-columns: repeat(auto-fit, 333px);
+    grid-column-gap: 106px;
+    display: grid;
+}

@@ -1,0 +1,10 @@
+.portfolio__name {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 20px;
+    letter-spacing: 0.72px;
+    text-transform: uppercase;
+    margin: 12px 0 0;
+    color: #181A3F;
+}

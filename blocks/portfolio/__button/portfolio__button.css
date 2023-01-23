@@ -1,0 +1,15 @@
+.portfolio__button {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    text-align: center;
+    letter-spacing: 1.6px;
+    text-transform: uppercase;
+    padding: 33px 71px 35px 40px;
+    color: #181A3F;
+    border: 2px solid #181A3F;
+    border-radius: 0px;
+    background-color: transparent;
+    cursor: pointer;
+}
